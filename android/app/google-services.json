@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "461628541593",
+    "project_id": "ppk-front",
+    "storage_bucket": "ppk-front.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461628541593:android:1a985c958696bc7093c608",
+        "android_client_info": {
+          "package_name": "com.lastapp1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC64RYq-sCU00nMwXE0OYnjcgPCQIEUutc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
